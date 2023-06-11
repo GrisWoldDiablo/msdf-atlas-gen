@@ -25,8 +25,7 @@ project "msdf-atlas-gen"
 
 	defines
 	{
-		"_CRT_SECURE_NO_WARNINGS",
-		"MSDFGEN_USE_LODEPNG"
+		"_CRT_SECURE_NO_WARNINGS"
 	}
 
 	links
